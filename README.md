@@ -16,7 +16,7 @@ To get started with GoBarber-Mobile, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/renatosilveira99/go-barber-mobile.git
+   git clone https://github.com/yourusername/go-barber-mobile.git
    cd go-barber-mobile
    ```
 
@@ -26,7 +26,9 @@ To get started with GoBarber-Mobile, follow these steps:
    npm install
    ```
 
-3. Run the application:
+3. Make sure the GoBarber API is running, as this mobile app relies on it for backend services. You can find the GoBarber API repository [here](https://github.com/renatosilveira99/go-barber-api).
+
+4. Run the application:
 
    For Android:
    ```bash
@@ -38,7 +40,7 @@ To get started with GoBarber-Mobile, follow these steps:
    npm run ios
    ```
 
-4. Start the development server:
+5. Start the development server:
 
    ```bash
    npm start
